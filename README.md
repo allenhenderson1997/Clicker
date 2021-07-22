@@ -1,0 +1,1 @@
+This is just a fun little clicker "thing" I made. I was playing with JavaScript and made this. This is what one of the things that happens when I let my creativity and imagination take over my projects.
